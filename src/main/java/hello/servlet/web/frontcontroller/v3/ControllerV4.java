@@ -4,6 +4,6 @@ import hello.servlet.web.frontcontroller.ModelView;
 
 import java.util.Map;
 
-public interface ControllerV3 {
+public interface ControllerV4 {
     ModelView process(Map<String, String> paramMap);
 }
